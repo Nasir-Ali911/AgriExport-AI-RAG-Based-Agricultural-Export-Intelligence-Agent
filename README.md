@@ -112,3 +112,6 @@ This project is open-source and intended for educational and research purposes.
 👨‍💻 Author
 
 Developed as an AI project exploring RAG architecture for agricultural trade intelligence systems.
+
+You can try the AI assistant by visiting the live chat interface: https://nasir-ali911.github.io/Agri-export-agent-v2/
+
